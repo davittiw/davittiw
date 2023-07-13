@@ -1,9 +1,9 @@
-### hi, everyone!
+### hi everyone :D
+I am a Brazilian student of System Analysis on **ETEC**, I will be the best fullstack!  
+I passionate about technology and I have enthusiasm to learn everything possible.  
+Contact me at lucctyte@gmail.com
 
-I'm a Brazilian student of systems analysis and development, future developer. I am passionate about technology and I have enthusiasm to learn everything possible, I want to be the best!  
-contact me at lucctyte@gmail.com
-
-### skills
+### skills 
 ![](https://img.shields.io/badge/HTML-9748E8?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-704BF2?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-4F56DC?style=for-the-badge&logo=javascript&logoColor=white)
