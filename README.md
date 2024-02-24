@@ -1,5 +1,5 @@
 ### Hi, i'm Luccas Davi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
-I am a Brazilian student of System Analysis on **ETEC**, I will be the best fullstack!  
+I am a Brazilian student of Software Developer on **ETEC**, I will be the best fullstack!  
 I love programming, reading, training and studying. I like to use my obsessive attention to details, I have enthusiasm to learn everything possible. I like to do things that make a difference.
 
 #### Personal Stuffs:
