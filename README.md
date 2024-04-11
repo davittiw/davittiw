@@ -33,6 +33,6 @@ Contact me at lucctyte@gmail.com;
 [![GitHub](https://img.shields.io/badge/GitHub-3755E6?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
 </div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davittiw&bg_color=3755E6&color=3755E6&line=3755E6&point=3755E6&area=true&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davittiw&custom_title=Davittiw%20Ghraphic&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3755E6&height=120&section=footer"/>
