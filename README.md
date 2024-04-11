@@ -8,11 +8,11 @@
 </div>
   
 <div align="center">
-  ![C](https://img.shields.io/badge/C-3754E6?style=for-the-badge&logo=c&logoColor=FFF)
-  ![Java](https://img.shields.io/badge/Java-3754E6?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS-3754E6?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-3754E6?style=for-the-badge&logo=javascript&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-3754E6?style=for-the-badge&logo=php&logoColor=white)
+  ![C](https://img.shields.io/badge/C-3754E6?style=for-the-badge&logo=c&logoColor=FFF);
+  ![Java](https://img.shields.io/badge/Java-3754E6?style=for-the-badge&logo=openjdk&logoColor=white);
+  ![CSS](https://img.shields.io/badge/CSS-3754E6?style=for-the-badge&logo=css3&logoColor=white);
+  ![JavaScript](https://img.shields.io/badge/JavaScript-3754E6?style=for-the-badge&logo=javascript&logoColor=white);
+  ![PHP](https://img.shields.io/badge/PHP-3754E6?style=for-the-badge&logo=php&logoColor=white);
   
 </div>
 
