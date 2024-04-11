@@ -8,13 +8,6 @@ I’m currently working on something cool;
 I accept constructive criticism :D  
 Contact me at lucctyte@gmail.com;
 
-#### Skills :)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![](https://img.shields.io/badge/C%23-1E3BE3?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/HTML-2D71FA?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1E83E3?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-21B9FB?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3755E6&height=120&section=header"/>
@@ -29,10 +22,10 @@ Contact me at lucctyte@gmail.com;
 <div align="center">
   
 ![C](https://img.shields.io/badge/C-3755E6?style=for-the-badge&logo=c&logoColor=FFF)
-[![Git](https://img.shields.io/badge/Git-3755E6?style=for-the-badge&logo=git&logoColor=FFF)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-3755E6?style=for-the-badge&logo=github&logoColor=FFF)](https://docs.github.com/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1E83E3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21B9FB?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 </div>
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=davittiw&bg_color=3755E6&color=3755E6&line=3755E6&point=3755E6&area=true&hide_border=true)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3755E6&height=120&section=footer"/>
