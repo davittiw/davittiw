@@ -10,7 +10,6 @@ Estou animado para continuar aprendendo e evoluindo no campo da tecnologia, e es
 <div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3754E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davittiw/)
-[![GitHub](https://img.shields.io/badge/GitHub-3754E6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davittiw)
 [![Discord](https://img.shields.io/badge/Discord-3754E6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@davittiw/)
 </div>
 
