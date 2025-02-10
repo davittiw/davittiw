@@ -6,10 +6,8 @@ I am excited to continue learning and growing in the tech field, and I am always
 
 
 ### contact
-<div align="left">
-  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davittiw/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@davittiw/)
+[![Static Badge](https://img.shields.io/badge/discord-black)](https://discord.com/channels/@davittiw)
+[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/davittiw/)
 </div>
 
 <div align="left">  
