@@ -1,30 +1,17 @@
-# Davittiw | Quem sou eu?
-Meu nome é Luccas e sou estudante de **Desenvolvimento de Sistemas** no curso técnico da ETEC. Atualmente, estou no segundo semestre e me dedicando ao máximo para expandir meus conhecimentos nas diversas áreas da tecnologia.
+My name is Luccas, and I am a Brazilian student, graduated in the technical course of **Systems Development** at ETEC. I dedicate myself fully to expanding my knowledge in various areas of technology, and I have a great curiosity to learn and push myself to the limit in everything I do.
+I have a special interest in improving my skills in **Java**, **PHP**, and **Databases**. Additionally, I am particularly focused on **web development**, working with HTML, CSS, and JavaScript.
+I am excited to continue learning and growing in the tech field, and I am always looking for new opportunities to put what I learn into practice. I’m happy to meet you!
 
-Tenho um interesse especial em aprimorar minhas habilidades em **Java, PHP e banco de dados**. Além disso, estou particularmente focado no desenvolvimento web, trabalhando com HTML, CSS e JavaScript, pois acredito que essas tecnologias são fundamentais para criar aplicações modernas e dinâmicas.
-Além dessas áreas, tenho uma curiosidade crescente pela segurança cibernética. Acredito que entender e aplicar práticas de segurança é essencial no mundo digital de hoje, onde a proteção dos dados é uma prioridade.
+![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,java,php,figma)
 
-Estou animado para continuar aprendendo e evoluindo no campo da tecnologia, e estou sempre em busca de novas oportunidades para colocar em prática o que aprendo.
 
-## Conecte-se comigo!
+### contact
 <div align="left">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-3754E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davittiw/)
-[![Discord](https://img.shields.io/badge/Discord-3754E6?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@davittiw/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/davittiw/)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@davittiw/)
 </div>
 
-## Habilidades 💡
-<div align="left">
-  
-![PHP](https://img.shields.io/badge/PHP-3754E6?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-3754E6.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-3754E6?style=for-the-badge&logo=git&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-3754E6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-3754E6?style=for-the-badge&logo=html5&logoColor=white)
-</div>
-
-## GitHub Stats 📊
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davittiw&show_icons=true&count_private=true&hide_border=true&title_color=3755E6&icon_color=3755E6&text_color=FFF&bg_color=0d1117"/>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davittiw&layout=compact&hide_border=true&title_color=3755E6&text_color=FFF&bg_color=0d1117"/>
-</div>
+<div align="left">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davittiw&theme=transparent&show_icons=true&hide_border=true&text_color=fff&title_color=fff"/>
+ <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davittiw&layout=compact&theme=transparent&hide_border=true&text_color=fff&title_color=fff"/>
