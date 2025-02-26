@@ -11,6 +11,6 @@ I am excited to continue learning and growing in the tech field, and I am always
 
 <div align="center">
   
-[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/davittiw/)
+[![Static Badge](https://img.shields.io/badge/linkedin-black)](https://www.linkedin.com/in/davttiw/)
 [![Static Badge](https://img.shields.io/badge/discord-black)](https://www.discord.com/@davittiw/)
 </div>
