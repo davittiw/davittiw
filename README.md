@@ -1,6 +1,7 @@
-My name is Luccas, and I am a Brazilian student, graduated in the technical course of **Systems Development** at ETEC. I dedicate myself fully to expanding my knowledge in various areas of technology, and I have a great curiosity to learn and push myself to the limit in everything I do.
-I have a special interest in improving my skills in **Java**, **PHP**, and **Databases**. Additionally, I am particularly focused on **web development**, working with HTML, CSS, and JavaScript.
-I am excited to continue learning and growing in the tech field, and I am always looking for new opportunities to put what I learn into practice. I’m happy to meet you!
+# Hi there 🖖
+## Introdução
+Olá! Eu sou o Luccas Davi. Sou um desenvolvedor full-stack e minhas linguagens favoritas são **Javascript** e **Java**.
+Estou em busca de me tornar um programador melhor, colocando em prática meus conhecimentos, aperfeiçoando e consolidando o que já sei. Aceito críticas construtivas, entre em contato!
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,java,php,figma)
 
