@@ -12,4 +12,5 @@ Estou em busca de me tornar um programador melhor, colocando em prática meus co
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davittiw&layout=compact&theme=transparent&hide_border=true&text_color=fff&title_color=fff"/>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/davttiw) | [GitHub](https://github.com/davittiw) | <a href="mailto:lucctyte@gmail.com?subject=Olá">Email</a>
+[LinkedIn](https://www.linkedin.com/in/davttiw) | [GitHub](https://github.com/davittiw) | [Download CV](https://drive.google.com/file/d/1edQhJU7k2ruTPPctdcCLJwxyM_bEsynU/view?usp=drive_link)
+
