@@ -3,7 +3,7 @@
 Olá! Eu sou o Luccas Davi. Sou um desenvolvedor full-stack e minhas linguagens favoritas são **Javascript** e **Java**.
 Estou em busca de me tornar um programador melhor, colocando em prática meus conhecimentos, aperfeiçoando e consolidando o que já sei. Aceito críticas construtivas, entre em contato!
 
-### Stacks 🔥
+### Tecnologias 🛸
 
 ![Skills](https://skillicons.dev/icons?i=js,html,css,git,py,java,php,figma)
 
@@ -12,5 +12,4 @@ Estou em busca de me tornar um programador melhor, colocando em prática meus co
 <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davittiw&layout=compact&theme=transparent&hide_border=true&text_color=fff&title_color=fff"/>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/davttiw) | [GitHub](https://github.com/davittiw) | [Email](mailto:lucctyte@gmail.com?subject=Olá)
-
+[LinkedIn](https://www.linkedin.com/in/davttiw) | [GitHub](https://github.com/davittiw) | <a href="mailto:lucctyte@gmail.com?subject=Olá">Email</a>
