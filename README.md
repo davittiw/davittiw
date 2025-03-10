@@ -1,4 +1,4 @@
-# Hi there 🖖
+# Olá, Mundo! 🖖
 ### Introdução
 Olá! Eu sou o Luccas Davi. Sou um desenvolvedor full-stack e minhas linguagens favoritas são **Javascript** e **Java**.
 Estou em busca de me tornar um programador melhor, colocando em prática meus conhecimentos, aperfeiçoando e consolidando o que já sei. Aceito críticas construtivas, entre em contato!
