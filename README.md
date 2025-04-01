@@ -5,7 +5,7 @@ Estou em busca de me tornar um programador melhor, colocando em prática meus co
 
 ### Tecnologias 🛸
 
-![Skills](https://skillicons.dev/icons?i=js,html,css,java,python,php,figma,git)
+![Skills](https://skillicons.dev/icons?i=js,html,css,java,python,php,mysql,figma,git)
 
 <div align="left">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davittiw&theme=transparent&show_icons=true&hide_border=true&text_color=fff&title_color=fff"/>
