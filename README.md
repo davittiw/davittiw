@@ -14,6 +14,6 @@ Estou em busca de me tornar um programador melhor, colocando em prática meus co
 
 [LinkedIn](https://www.linkedin.com/in/davttiw) | [Currículo](https://docs.google.com/document/d/1ZxRJ5TM8hrgmZO-ilaMYskb22-Nc2ioq-1W6TNh5CaQ/edit?usp=drive_link)
 
-Legenda:
-rp - repositórios / repository
-pj - projetos / projects
+Legenda: </br>
+rp = repositório / repository </br>
+pj = projeto / project
