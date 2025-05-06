@@ -1,7 +1,7 @@
 ## Olá, Mundo! 🖖
 ### Tecnologias 🛸
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,vite,python,php,mysql,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,vite,python,php,postgres,git)
 
 <div align="left">
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davittiw&theme=transparent&show_icons=true&hide_border=true&text_color=fff&title_color=fff"/>
