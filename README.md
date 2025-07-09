@@ -5,5 +5,4 @@ Sou um desenvolvedor Full-Stack, estou aprofundando meus conhecimentos em React 
 ![Skills](https://skillicons.dev/icons?i=react,tailwind,typescript,nodejs,mysql,git,vite)
 
 
-[LinkedIn](https://www.linkedin.com/in/davttiw) -
-[Portifólio](https://davittiw.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/davttiw)
